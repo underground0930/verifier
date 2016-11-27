@@ -5,7 +5,7 @@
 | マシン        | OS          |
 | --------------- |---------------|
 | MacBook Pro (Retina, 15-inch, Mid 2015) | macOS Sierra 10.12.1 |
-| Inspiron ONE2330 | windows 10 Home |
+| DELL Inspiron ONE2330 | windows 10 Home |
 
 ## SP
 
