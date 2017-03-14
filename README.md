@@ -12,6 +12,7 @@
 | マシン        | OS          |
 | --------------- |---------------|
 | iPhone7 | iOS 10.2.1 |
+| iPhone5s | iOS 10.2.1 |
 | SONY XPERIA (AU) | Android 6.0.0 |
 | Samsung Galaxy (Docomo) | Android 6.0.1 |
 | KYOCERA Qua phone (AU) | Android 5.1.1 |
