@@ -17,8 +17,8 @@
 
 | マシン        | OS          |
 | --------------- |---------------|
-| iPhone7 | iOS 10.3.1 |
-| iPhone6Plus | iOS 10.3.1 |
+| iPhone7 | iOS 10.3.2 |
+| iPhone6Plus | iOS 10.3.2 |
 | iPhone5s | iOS 10.2.1 |
 | SONY XPERIA (AU) | Android 6.0.0 |
 | Samsung Galaxy (Docomo) | Android 6.0.1 |
