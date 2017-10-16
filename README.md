@@ -7,13 +7,13 @@
 | MacBook Pro (Retina, 15-inch, Mid 2015) | macOS High Sierra 10.13 |
 | ideaPad Lenovo | windows 10 Home |
 
-## TAB
+## Tablet
 
 | マシン        | OS          |
 | --------------- |---------------|
 | ipad mini4 | iOS 11.0.3 |
 
-## SP
+## SmartPhone
 
 | マシン        | OS          |
 | --------------- |---------------|
