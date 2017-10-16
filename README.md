@@ -5,7 +5,7 @@
 | マシン        | OS          |
 | --------------- |---------------|
 | MacBook Pro (Retina, 15-inch, Mid 2015) | macOS High Sierra 10.13 |
-| ideaPad | windows 10 Home |
+| ideaPad Lenovo | windows 10 Home |
 
 ## TAB
 
