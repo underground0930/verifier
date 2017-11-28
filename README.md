@@ -17,7 +17,8 @@
 
 | マシン        | OS          |
 | --------------- |---------------|
-| iPhone7 | iOS 11.0.3 |
+| iPhoneX | iOS 11.1.2 |
+| iPhone7 | iOS 11.1.2 |
 | iPhone6Plus | iOS 10.3.3 |
 | iPhone5s | iOS 10.2.1 |
 | Samsung Galaxy (Docomo) | Android 7.0.0 |
