@@ -4,14 +4,14 @@
 
 | マシン        | OS          |
 | --------------- |---------------|
-| MacBook Pro (Retina, 15-inch, Mid 2015) | macOS High Sierra 10.13 |
+| MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports) | macOS Catalina 10.15.7（19H15） |
 | ideaPad Lenovo | windows 10 Home |
 
 ## Tablet
 
 | マシン        | OS          |
 | --------------- |---------------|
-| ipad mini4 | iOS 11.0.3 |
+| ipad mini5 | iPadOS 14.2 |
 
 ## SmartPhone
 
