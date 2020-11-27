@@ -17,11 +17,8 @@
 
 | マシン        | OS          |
 | --------------- |---------------|
-| iPhoneX | iOS 11.1.2 |
-| iPhone7 | iOS 11.1.2 |
-| iPhone6Plus | iOS 10.3.3 |
-| iPhone5s | iOS 10.2.1 |
-| Samsung Galaxy (Docomo) | Android 7.0.0 |
-| SONY XPERIA (AU) | Android 6.0.0 |
-| KYOCERA Qua phone (AU) | Android 5.1.1 |
-| SHARP AQUOS SERIE mini (AU) | Android 4.4.4 |
+| iPhone12 mini | iOS 14.2.1 |
+| iPhone11 | iOS 14.2.1 |
+| iPhoneX | iOS 14.2.1 |
+| iPhoneSE | iOS 14.0.0 |
+| pixel4 | Android 10 |
