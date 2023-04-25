@@ -4,25 +4,31 @@
 
 |  機種  |  os  |
 | ---- | ---- |
-| - | - |
+| XPS 13 9305 | Windows 10 |
 
 
 ## Mac
 
 |  機種  |  os  |
 | ---- | ---- |
-|  MacBook Pro 14inch 2021 |  Ventura 13.3.1 |
+|  MacBook Pro 14inch 2021 | Ventura 13.3.1 |
 
 
 ## tablet
 
 |  機種  |  os  |
 | ---- | ---- |
-|  iPad mini 5 |  16.4.1  |
+|  iPad mini 5 | iPadOS 16.4.1  |
+
+|  機種  |  os  |
+| ---- | ---- |
+|  kindle | 16.4.1 |
+
 
 ## iOS
 
 |  機種  |  os  |
 | ---- | ---- |
-| iPhone 12 mini | 16.4.1 |
+| iPhone 12 mini | iOS 16.4.1 |
+| iPhone 11 | iOS 16.4.1 |
 
