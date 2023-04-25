@@ -22,7 +22,7 @@
 
 |  機種  |  os  |
 | ---- | ---- |
-|  kindle | 16.4.1 |
+|  Fire HD 8 Plus | fireOS 8.3.14 |
 
 
 ## iOS
@@ -32,3 +32,9 @@
 | iPhone 12 mini | iOS 16.4.1 |
 | iPhone 11 | iOS 16.4.1 |
 
+## Android
+
+|  機種  |  os  |
+| ---- | ---- |
+| Google Pixel 4 | Android 13 |
+| AQUOAS sense3 basic | Android 11 |
