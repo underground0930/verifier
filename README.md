@@ -11,8 +11,8 @@
 
 |  機種  |  os  |
 | ---- | ---- |
-|  MacBook Pro 14inch 2021 | Ventura 13.3.1 |
-
+|  MacBook M1 Pro 14inch 2021 | Ventura 13.3.1 |
+|  MacBook Intel Pro 13inch 2020 | Ventura 13.0.0 |
 
 ## tablet
 
